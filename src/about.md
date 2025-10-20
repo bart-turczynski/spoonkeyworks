@@ -1,18 +1,8 @@
 ---
 layout: base.njk
-title: About
+title: About Spoonkey Works
 ---
 
-# About Me
+# About Spoonkey Works
 
-Free tinker_er_.
-
-## Background
-
-Black. Or white. Depends on your system.
-
-## Skills
-
-- Can wiggle ears
-- Great with pet(peeve)s)
-- Uhm.
+It's just a little hobby project.

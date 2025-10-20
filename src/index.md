@@ -1,12 +1,10 @@
 ---
 layout: base.njk
-title: Bart Turczynski
+title: Spoonkey Works
 ---
 
-# Bart Turczynski
+# Spoonkey Works
 
-Oh, hello.
+It's a spoon; it's a key, too.
 
 [LinkedIn](https://www.linkedin.com/in/bart-turczynski/)
-
-I hate trailing slashes.
