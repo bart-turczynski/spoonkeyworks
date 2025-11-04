@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Spoonkey Works
+---
+
 # Privacy Policy
 
 Last updated: May 28, 2024
