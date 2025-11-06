@@ -1,13 +1,13 @@
 ---
 layout: base.njk
-title: Spoonkey Works
+title: Terms of Service - Reddit Answers
 ---
 
 # Terms of Service
 
-Last updated: May 28, 2024
+Last updated: May 28, 2025
 
-These Terms of Service (“Terms”) govern your use of the Reddit Answers Saver browser extension (“Extension”). By installing or using the Extension, you agree to these Terms. If you do not agree, do not install or use the Extension.
+These Terms of Service (“Terms”) govern your use of the Reddit Answers browser extension (“Extension”). By installing or using the Extension, you agree to these Terms. If you do not agree, do not install or use the Extension.
 
 ## 1. Description of the Extension
 
@@ -52,4 +52,3 @@ We may modify these Terms from time to time. Material changes will be noted in t
 ## 10. Contact
 
 If you have questions about these Terms or need support, please open an issue on the project repository or reach out via the support channel listed in the Chrome Web Store listing.
-

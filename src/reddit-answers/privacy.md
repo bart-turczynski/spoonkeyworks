@@ -1,13 +1,13 @@
 ---
 layout: base.njk
-title: Spoonkey Works
+title: Privacy Policy - Reddit Answers
 ---
 
 # Privacy Policy
 
-Last updated: May 28, 2024
+Last updated: May 28, 2025
 
-Reddit Answers Saver (the “Extension”) is a browser add-on that helps you capture the structured content shown on Reddit’s `/answers/` pages and save it to a JSON file on your device. This Privacy Policy explains what information the Extension accesses, how that information is used, and the choices you have.
+Reddit Answers (the “Extension”) is a browser add-on that helps you capture the structured content shown on Reddit’s `/answers/` pages and save it to a JSON file on your device. This Privacy Policy explains what information the Extension accesses, how that information is used, and the choices you have.
 
 ## Information We Access
 
@@ -46,4 +46,4 @@ We may update this Privacy Policy to reflect changes to the Extension or applica
 
 ## Contact
 
-If you have questions about privacy or need support, please open an issue on the project repository or reach out via the support channel listed in the Chrome Web Store listing.
+If you have questions about privacy or need support, please reach out to support@spoonkeyworks.com.

@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Spoonkey Works
+title: Spoonkey Works Support
 ---
 
 # Support
